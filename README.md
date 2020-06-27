@@ -8,7 +8,7 @@ It is inspired by [Dear ImGui](https://github.com/ocornut/imgui).
 ## Features
 - Drawing common 2D primitives
 - Text rendering
-- OpenGL renderer and an example app.
+- OpenGL renderer and an example app
 
 ## Usage
 Everything under ```Cubism/``` is core to the library. Additionally you can use one of the renderers provided under ```Examples/``` (currently only OpenGL) or implement your own.
