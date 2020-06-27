@@ -1,0 +1,8 @@
+## Copyright (c) Fouad Valadbeigi (akoylasar@gmail.com)
+
+[submodule "ThirdParty/gl3w"]
+	path = ThirdParty/gl3w
+	url = https://github.com/skaslev/gl3w.git
+[submodule "ThirdParty/glfw"]
+	path = ThirdParty/glfw
+	url = https://github.com/glfw/glfw.git
