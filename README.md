@@ -26,6 +26,7 @@ Everything under ```Cubism/``` is core to the library. Additionally you can use 
     ```cmake -G"Your Favorite Compiler" ..```
 
 The project has only been built with ```XCode``` on OSX and ```MSVC 14```  and ```MSVC 15``` on Windows. 
+![screenshot](https://raw.githubusercontent.com/akoylasar/cubism/master/screenshot.gif)
 
 ## Prerequisites
 - [cmake](https://cmake.org/download/)
